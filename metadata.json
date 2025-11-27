@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora para Nossos Clientes",
+  "description": "Simula a retenção de 10% na fonte sobre lucros e dividendos superiores a R$ 50.000,00 mensais por uma mesma fonte, conforme o Art. 6º-A da Lei 15.270/2025.",
+  "requestFramePermissions": []
+}
